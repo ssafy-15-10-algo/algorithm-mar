@@ -103,8 +103,8 @@ algorithm-mar
 
 | Day | 문제 | 난이도 | 링크 |
 |:--:|:--|:--:|:--|
-| **10일차 (월)** | - | 골드  | https://www.acmicpc.net/problem/ |
-| **11일차 (화)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **10일차 (월)** | 학교 탐방하기 | 골드 III | https://www.acmicpc.net/problem/13418 |
+| **11일차 (화)** | KSA 문자열 | 골드 IV | https://www.acmicpc.net/problem/31433 |
 | **12일차 (수)** | - | 골드  | https://www.acmicpc.net/problem/ |
 | **13일차 (목)** | - | 골드  | https://www.acmicpc.net/problem/ |
 | **14일차 (금)** | - | 골드  | https://www.acmicpc.net/problem/ |
