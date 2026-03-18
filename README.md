@@ -108,7 +108,7 @@ algorithm-mar
 | **12일차 (수)** | 하늘에서 별똥별이 빗발친다 | 골드 III | https://www.acmicpc.net/problem/14658 |
 | **13일차 (목)** | - | 골드  | https://www.acmicpc.net/problem/ |
 | **14일차 (금)** | - | 골드  | https://www.acmicpc.net/problem/ |
-| **스터디** | - | 플래티넘  | https://www.acmicpc.net/problem/ |
+| **스터디** | 변호사들 | 플래티넘 II | https://www.acmicpc.net/problem/17304 |
 
 ---
 
