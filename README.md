@@ -116,7 +116,7 @@ algorithm-mar
 
 | Day | 문제 | 난이도 | 링크 |
 |:--:|:--|:--:|:--|
-| **15일차 (월)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **15일차 (월)** | 이모티콘 | 골드 IV | https://www.acmicpc.net/problem/14226 |
 | **16일차 (화)** | - | 골드  | https://www.acmicpc.net/problem/ |
 | **17일차 (수)** | - | 골드  | https://www.acmicpc.net/problem/ |
 | **18일차 (목)** | - | 골드  | https://www.acmicpc.net/problem/ |
