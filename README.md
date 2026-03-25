@@ -119,7 +119,7 @@ algorithm-mar
 | **15일차 (월)** | 이모티콘 | 골드 IV | https://www.acmicpc.net/problem/14226 |
 | **16일차 (화)** | 조교의 맹연습 | 골드 IV | https://www.acmicpc.net/problem/27114 |
 | **17일차 (수)** | 회의준비 | 골드 II | https://www.acmicpc.net/problem/2610 |
-| **18일차 (목)** | - | 골드  | https://www.acmicpc.net/problem/ |
+| **18일차 (목)** | 으어어… 에이쁠 주세요.. | 골드 IV | https://www.acmicpc.net/problem/23031 |
 | **29일차 (금)** | - | 골드  | https://www.acmicpc.net/problem/ |
 | **스터디** | 무서운 아르바이트 | 플래티넘 V | https://www.acmicpc.net/problem/12846 |
 
